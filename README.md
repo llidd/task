@@ -17,3 +17,5 @@ python3 task.py
 **3.** Enter desired dates
 
 **4.** Watch average of metric values being calculated with multitreading
+
+![Screenshot of running application](shot.png?raw=true "Screenshot of running application")
